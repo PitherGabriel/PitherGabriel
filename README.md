@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pither Gabriel</h1>
-<h3 align="center">I am master Computer Science and Engineering student with a passion about robotics and embedded software development.</h3>
+<h3 align="center">I am master Computer Science and Engineering student with passion for robotics and embedded software development.</h3>
 
 - 🌱 I’m currently learning **parallel programming and ROS**
 
