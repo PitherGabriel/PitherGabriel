@@ -1,8 +1,4 @@
-<h1 align="left">Hey 👋 I'm Pither Gabriel</h1>
-
-###
-
-<p align="left">I'm first year master Computer Science and Engineering student with passion about robotics, IoT development, and applied machine learning.</p>
+<h1 align="center">Hey 👋 I'm Pither Gabriel</h1>
 
 ###
 
@@ -10,7 +6,7 @@
 
 ###
 
-<img align="right" height="100" src="https://static.wikia.nocookie.net/vagabond/images/e/e2/Musashi_praying.webp/revision/latest?cb=20220613223104"  />
+<p align="left">I'm first year master Computer Science and Engineering student with passion about robotics, IoT development, and applied machine learning.</p>
 
 ###
 
@@ -18,12 +14,8 @@
 
 ###
 
-<h2 align="left">My stats</h2>
-
-###
-
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=PitherGabriel&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=monokai&locale=en&hide_border=true&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=PitherGabriel&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=monokai&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PitherGabriel&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=monokai&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
