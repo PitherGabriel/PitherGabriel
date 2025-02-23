@@ -43,7 +43,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="80" alt="linux logo"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets logo" height="80"/> 
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/ros/ros-original.svg" height="80" alt="ros logo"  />
-    
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original-wordmark.svg" height="80" alt="docker logo"  />
+  <img src="    https://github.com/devicons/devicon/blob/v2.16.0/icons/cmake/cmake-original-wordmark.svg" height="80" alt="cmake logo"  />    
 </div>
 
 ###
