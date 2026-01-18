@@ -1,16 +1,16 @@
-<h1 align="center">Hey 👋 I'm Pither Gabriel</h1>
+<h1 align="center">Hey I'm Gabriel</h1>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">A little about me: </h2>
 
 ###
 
-<p align="left">I'm first year master Computer Science and Engineering student with passion about robotics, IoT development, and applied machine learning.</p>
+<p align="left">I'm a Mechatronincs engineer with a huge passion about robotics and IoT development</p>
 
 ###
 
-<p align="left">📚 I'm currently learning:<br>- Parallel programing <br>- Networked Embedded Systems<br>- IoT communication protocols</p>
+<p align="left">I'm currently learning:<br>- Dataspaces <br>- Networked Embedded Systems<br>- IoT communication protocols</p>
 
 ###
 
